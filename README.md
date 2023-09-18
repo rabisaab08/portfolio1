@@ -53,7 +53,7 @@
 - This was a fun project to monitor who could enter my room with my permission.
 
 ** Guitar pick AutoCAD
-- Creating a guitar pick holder with my team members in my first-year course to assist people that might have disabilities or might find it challenging to hold a guitar pick.
+- Creating a guitar pick holder with my team members in my first-year course to assist people who might have disabilities or might find it challenging to hold a guitar pick.
 - Using AutoCAD, I had to take into consideration the measurement of an average guitar pick as well as the motion of playing a guitar
 - I designed multiple prototypes to see which one would be more effective and easier to use for our stakeholders.
 
