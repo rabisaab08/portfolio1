@@ -3,6 +3,40 @@
 - St Martin de Porres High School, Airdrie AB | Diploma (_Graduated in 2022_)
 - French Immersion Program, St Martin de Porres High School | Diploma (_Graduated in 2022_)
 - University of British Columbia, Vancouver BC | Bachelor of Applied Science, Manufacturing Engineering (_Currently enrolled_)
+  
+### skills
+- Experience with AutoCAD and software designing
+- Experience with coding languages C and C++
+- Machine tool technologies
+- Currently learning 3D printing and moulding injection
+- Communication with conveying important information under stressful situations
+- Teamwork skills as a student and athlete to support and motivate team members in tasks
+- Fast learner as an ability to quickly learn and understand demanded task
+- Adaptability as a trilingual person speaking French, Arabic and English
+
+### Projects
+**Cardboard chair
+- In the first year of engineering our teamwork project was to build an effective chair made out of cardboard with specific requirements given.
+- I prototyped multiple chairs with different designs on the inside to minimize the amount of cardboard used while making sure that the chair could hold enough weight on it.
+- I was responsible in my group researching the measurements that we would need for the chair as it should be designed for a child of a certain age.
+- I assisted my group as well with the folding methods we could use at the bottom of the chair.
+
+**Claw
+- Project that required us to build a claw out of aluminum metal sheets and an Arduino kit
+- My teammate and I were in charge of figuring out the code needed for our claw. This required the distance from the surface to our claw as well as the timing between its opening and closing.
+- I was also in charge of prototyping the claw as our first prototype failed to open up and close.
+- My team ended up using my prototype that did not require any hinge for the claw to open as well as claw teeth made out of elastics to create friction when picking up an object
+
+** Arduino security system
+- During the summer of 2023, I spent my time designing a security system for my room with an Arduino kit
+- I wanted to refine my skills using Arduino as well as creating new designs
+- Using an Arduino board, a buzzer, an LED and a matrix keyboard, I was able to create a lock on my room door that requires a password to be let in.
+- This was a fun project to monitor who could enter my room with my permission.
+
+** Guitar pick AutoCAD
+- Creating a guitar pick holder with my team members in my first-year course to assist people who might have disabilities or might find it challenging to hold a guitar pick.
+- Using AutoCAD, I had to take into consideration the measurement of an average guitar pick as well as the motion of playing a guitar
+- I designed multiple prototypes to see which one would be more effective and easier to use for our stakeholders.
 
 ### Work and volunteer experience
 **Orientation leader @ UBC (_SEP 2023-SEP 2023_)
@@ -33,37 +67,3 @@
 - Also doing sports competitions and learning new skills such as tying knots and sailing boats
 - Learning discipline and respect in our Cadet groups as well as leadership and teamwork
   
-### Projects
-**Cardboard chair
-- In the first year of engineering our teamwork project was to build an effective chair made out of cardboard with specific requirements given.
-- I prototyped multiple chairs with different designs on the inside to minimize the amount of cardboard used while making sure that the chair could hold enough weight on it.
-- I was responsible in my group researching the measurements that we would need for the chair as it should be designed for a child of a certain age.
-- I assisted my group as well with the folding methods we could use at the bottom of the chair.
-
-**Claw
-- Project that required us to build a claw out of aluminum metal sheets and an Arduino kit
-- My teammate and I were in charge of figuring out the code needed for our claw. This required the distance from the surface to our claw as well as the timing between its opening and closing.
-- I was also in charge of prototyping the claw as our first prototype failed to open up and close.
-- My team ended up using my prototype that did not require any hinge for the claw to open as well as claw teeth made out of elastics to create friction when picking up an object
-
-** Arduino security system
-- During the summer of 2023, I spent my time designing a security system for my room with an Arduino kit
-- I wanted to refine my skills using Arduino as well as creating new designs
-- Using an Arduino board, a buzzer, an LED and a matrix keyboard, I was able to create a lock on my room door that requires a password to be let in.
-- This was a fun project to monitor who could enter my room with my permission.
-
-** Guitar pick AutoCAD
-- Creating a guitar pick holder with my team members in my first-year course to assist people who might have disabilities or might find it challenging to hold a guitar pick.
-- Using AutoCAD, I had to take into consideration the measurement of an average guitar pick as well as the motion of playing a guitar
-- I designed multiple prototypes to see which one would be more effective and easier to use for our stakeholders.
-
-   
-### skills
-- Experience with AutoCAD and software designing
-- Experience with coding languages C and C++
-- Machine tool technologies
-- Currently learning 3D printing and moulding injection
-- Communication with conveying important information under stressful situations
-- Teamwork skills as a student and athlete to support and motivate team members in tasks
-- Fast learner as an ability to quickly learn and understand demanded task
-- Adaptability as a trilingual person speaking French, Arabic and English
