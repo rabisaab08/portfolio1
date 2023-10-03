@@ -1,4 +1,5 @@
 # Project portfolio
+
 ### Education
 - St Martin de Porres High School, Airdrie AB | Diploma (_Graduated in 2022_)
 - French Immersion Program, St Martin de Porres High School | Diploma (_Graduated in 2022_)
